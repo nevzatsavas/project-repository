@@ -1,0 +1,2 @@
+kubeadm join 172.31.25.78:6443 --token rmaqtx.57f1gt49vemcpz7y \
+        --discovery-token-ca-cert-hash sha256:703ab26c7b878f3e07e3ab645fff1ebef81711a50714f6f7ea508d39983b0d96
